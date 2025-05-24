@@ -30,7 +30,7 @@ The dataset used is "1.04. Real life example.csv" which contains used car listin
 ## How to Run
 
 1. Ensure you have the required libraries installed: numpy, pandas, statsmodels, matplotlib, seaborn, scikit-learn.
-2. Load the dataset `1.04. Real life example.csv` in the same directory. link to [download](:https://att-c.udemycdn.com/2020-11-28_15-57-05-c675e47cc74ce93713736f9bc757ee63/original.csv?response-content-disposition=attachment%3B+filename%3D1.04.%2BReal-life%2Bexample.csv&Expires=1748139964&Signature=vvhY-xq2PFYgoIL2tj1bDGbwCEHg9TXpkEJh7jNRgAUaNlQf4A6TpwUgbUd36XrWEciIhBZacnYXf~MQEatfuXQ6TCJQonc86gwUyrT3JruHiJ9-QJ5MN9hDS84LQVB~xJDTtdyLGXw~5~b1ArqhvjJgYCY4aiT2blKDLqWJ5W8V09lTQJ6bXrM~Wgak6IH430vVBq~jpDy~yp4gJPV4Mfiuch18i6ZoEOGQut4nryh1uqEps~1wC-tdrbobE~aHArDvkrZO3-2CMKga6K7wz4bc0zBjgYgE0dszEWj-8UWZEG7GGeWMo09n9KLZY~Ob1zgR4xS1HX-Xkxp6px7lqA__&Key-Pair-Id=K3MG148K9RIRF4)
+2. Load the dataset `1.04. Real life example.csv` in the same directory. link to [download](https://att-c.udemycdn.com/2020-11-28_15-57-05-c675e47cc74ce93713736f9bc757ee63/original.csv?response-content-disposition=attachment%3B+filename%3D1.04.%2BReal-life%2Bexample.csv&Expires=1748139964&Signature=vvhY-xq2PFYgoIL2tj1bDGbwCEHg9TXpkEJh7jNRgAUaNlQf4A6TpwUgbUd36XrWEciIhBZacnYXf~MQEatfuXQ6TCJQonc86gwUyrT3JruHiJ9-QJ5MN9hDS84LQVB~xJDTtdyLGXw~5~b1ArqhvjJgYCY4aiT2blKDLqWJ5W8V09lTQJ6bXrM~Wgak6IH430vVBq~jpDy~yp4gJPV4Mfiuch18i6ZoEOGQut4nryh1uqEps~1wC-tdrbobE~aHArDvkrZO3-2CMKga6K7wz4bc0zBjgYgE0dszEWj-8UWZEG7GGeWMo09n9KLZY~Ob1zgR4xS1HX-Xkxp6px7lqA__&Key-Pair-Id=K3MG148K9RIRF4)
 3. Run the Jupyter notebook `Car Price Predictor.ipynb` step-by-step to preprocess data, train the model, and evaluate results.
 
 ## Results
