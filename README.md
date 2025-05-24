@@ -37,6 +37,7 @@ The dataset used is "1.04. Real life example.csv" which contains used car listin
 
 - The model shows good fit on training data with residuals approximately normally distributed.
 - Predictions on test data are close to actual values with small percentage differences.
+![Result](image.png)
 
 ## Dependencies
 
